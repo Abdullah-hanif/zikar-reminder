@@ -1,2 +1,1 @@
-# zikar-reminder
-zikar reminder
+"# Zikr-reminder-app" 
